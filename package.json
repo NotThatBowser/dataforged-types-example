@@ -1,0 +1,9 @@
+{
+  "name": "dataforged-types-example",
+  "devDependencies": {
+    "typescript": "5.0.4"
+  },
+  "dependencies": {
+    "dataforged": "1.5.3"
+  }
+}
